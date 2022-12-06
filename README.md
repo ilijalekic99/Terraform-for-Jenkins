@@ -11,6 +11,6 @@ terrafrom apply
 
 # Checkout these repoes: 
 
-* https://github.com/ilekicgrid/Ansible-for-jenkins
-* https://github.com/ilekicgrid/crud-php
-* https://github.com/ilekicgrid/Terraform_LAMP_AWS
+* https://github.com/ilijalekic99/Ansible-for-Jenkins
+* https://github.com/ilijalekic99/CRUD-PHP
+* https://github.com/ilijalekic99/Terrafrom_aws_lamp_stack
